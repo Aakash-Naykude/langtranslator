@@ -26,7 +26,6 @@ Install my-project with repository
 
 
 
-## Product Discription:
 
 
 ## Homepage
